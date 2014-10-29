@@ -11,7 +11,7 @@ Angularjs form validation is perfect, but you also need to validate the form dat
 * Bootstrap3
 
 #Demo
-[evolpas.com/demo-angular-former/](evolpas.com/demo-angular-former/)
+[evolpas.com/demo-angular-former/](http://evolpas.com/demo-angular-former/)
 
 #Quick start
 ####Include the `AngularFormer` in your Angular App

@@ -103,7 +103,7 @@ public function postRegister() {
         return Response::json($response);
     }
 ```
-In you view
+In your view
 ```
 <?php
     echo Former::horizontal_open(URL::to('login'))

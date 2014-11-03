@@ -35,7 +35,7 @@ var app = angular.module('DemoFormer', ['AngularFormer']);
 ```
 ####Response from server.
 
-The respone must be a json object with: 
+The response must be a json object with: 
 * key `success` : `true` or `false`. The status of validation.
 * key `errors` : `array` . In case `success` = `false`, the response will have the message content for each field. The struct of errors will be
 ```
